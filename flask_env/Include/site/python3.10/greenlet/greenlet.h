@@ -157,7 +157,7 @@ static void** _PyGreenlet_API = NULL;
         }
 
 #endif /* GREENLET_MODULE */
-
+ 
 #ifdef __cplusplus
 }
 #endif
